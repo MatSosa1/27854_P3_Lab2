@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "echo \"Build OK\" && ls public",
     "start": "node index.js",
     "test": "jest",
     "lint": "eslint",
